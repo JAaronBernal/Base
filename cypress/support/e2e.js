@@ -16,5 +16,15 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 
+//Tab
+require("cypress-plugin-tab");
+
+// Iframe plugin
+import 'cypress-iframe';
+//xpath plugin
+require('@cypress/xpath');
+
+
+
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
