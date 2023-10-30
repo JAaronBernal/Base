@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JAaronBernal/Base/issues"
   },
-  "homepage": "https://github.com/JAaronBernal/Base#readme"
+  "homepage": "https://github.com/JAaronBernal/Base#readme",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
 }
